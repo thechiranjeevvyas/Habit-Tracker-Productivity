@@ -1,5 +1,6 @@
 <div align="center">
-# ✅ Personal Habit Tracker
+
+# **Personal Habit Tracker**
 
 A minimal, offline-first habit tracker focused on consistency.
 
@@ -30,13 +31,7 @@ A minimal, offline-first habit tracker focused on consistency.
   - [How to Add Habits](#how-to-add-habits)
   - [How Streaks Work](#how-streaks-work)
   - [How Data is Stored](#how-data-is-stored)
-- [Data & Privacy](#data--privacy)
-- [Screenshots](#screenshots)
-- [Roadmap](#roadmap--future-improvements)
 - [Contributing](#contributing)
-- [Disclaimer](#disclaimer)
-- [Author](#author)
-- [License](#license)
 
 ---
 
@@ -79,6 +74,45 @@ This project is built with modern, efficient technologies to ensure a great user
 
 ---
 
-## Folder Structure
+## Getting Started
 
-The project follows a standard Next.js directory structure to keep the codebase organized and maintainable.
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Ensure you have Node.js and npm (or yarn) installed on your system.
+
+- **Node.js** (v18.x or higher recommended)
+- **npm** or **yarn**
+
+Check if Node.js is installed
+node -v
+
+text
+
+Check if npm is installed
+npm -v
+
+text
+
+### Installation
+
+1. **Clone the repository:**
+   git clone https://github.com/your-username/personal-habit-tracker.git
+
+text 2. **Navigate to the project directory:**
+cd personal-habit-tracker
+
+text 3. **Install dependencies:**
+npm install
+
+text
+or
+yarn install
+
+text
+
+### Running Locally
+
+Once the dependencies are installed, you can run the development server:
+npm run dev
