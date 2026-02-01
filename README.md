@@ -78,39 +78,9 @@ This project is built with modern, efficient technologies to ensure a great user
 
 To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
 
-Ensure you have Node.js and npm (or yarn) installed on your system.
 
-- **Node.js** (v18.x or higher recommended)
-- **npm** or **yarn**
 
-Check if Node.js is installed
-node -v
-
-text
-
-Check if npm is installed
-npm -v
-
-text
-
-### Installation
-
-1. **Clone the repository:**
-   git clone https://github.com/your-username/personal-habit-tracker.git
-
-text 2. **Navigate to the project directory:**
-cd personal-habit-tracker
-
-text 3. **Install dependencies:**
-npm install
-
-text
-or
-yarn install
-
-text
 
 ### Running Locally
 
