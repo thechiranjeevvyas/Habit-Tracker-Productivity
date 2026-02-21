@@ -67,7 +67,7 @@ export default function DashboardPage() {
 
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-7">
                 {/* Main Feed: Today's Habits */}
-                <div className="col-span-full lg:col-span-4 space-y-6">
+                <div className="col-span-full lg:col-span-4 space-y-8">
                     <div className="flex items-center justify-between">
                         <h2 className="text-xl font-semibold">Today's Habits</h2>
                     </div>
